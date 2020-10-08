@@ -2,7 +2,7 @@
 
 Implementation of a continuous gait recognition in the verification scenario.
 
-The first task is load the data from the dataset. 
+The first task is to load the dataset. 
 We published a gait dataset called RecodGait_v1: https://figshare.com/articles/RecodGait_v1/4975028
 
 Afterwards, the next task is apply a feature space to the data. 
